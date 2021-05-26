@@ -1,0 +1,14 @@
+{
+    "properties": {
+        "ReportPeriod": {
+            "type": "string"
+        },
+        "ReportTime": {
+            "type": "string"
+        },
+        "TechShareName": {
+            "type": "string"
+        }
+    },
+    "type": "object"
+}
